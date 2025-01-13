@@ -12,6 +12,11 @@ Antes de mais nada, vou deixar aqui algumas linguagens e recursos dos quais já 
 - Desenvolvimento Web: HTML, CSS e JavaScript
 - Ferramentas: Visual Studio Code, DevC++ e CodeBlocks
 
+## Curiosidades
+
+- Uma vez já consegui me situar no top 200 jogadores de FIFA por um curto período em 2017.
+- Em um interclasse na escola onde estudei, meu time perdeu de 10 a 2, eu era o goleiro e fiz os dois únicos gols da partida, não ironicamente.
+
 ##  Projetos
 
 Opa, deu pra ver que essa parte está em branco, mas significa que estou em processo de aprendizado e logo logo estará lotada de projetos.
@@ -20,5 +25,8 @@ Você pode me encontrar nas redes sociais ou entrar em contato através dos link
 
 - [LinkedIn] (www.linkedin.com/in/pedro-henrique-de-lima-castro-1b89b9214)
 
+##  My Buddy
+
+Claro que eu não poderia deixar de mencionar o meu parceiro mais conhecido como [Tony](https://github.com/tonyJonas/), que vai me dar aquela força no começo desse novo ciclo nessa faculdade incrível.
 
 "CADA SONHO QUE VOCÊ DEIXA PRA TRÁS, É UM PEDAÇO DO SEU FUTURO QUE DEIXA DE EXISTIR" - STEVE JOBS
