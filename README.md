@@ -1,11 +1,12 @@
 Opa, meu nome é Pedro, fico feliz em te ver por aqui! 
 
-Bem-vindo ao meu perfil no GitHub! Sou um iniciante em programação e um futuro dev. 
+Bem-vindo ao meu perfil no GitHub! 
+Sou um dev iniciante e oficialmente um INTELER. 
 
 ## Sobre Mim
 
 Sou técnico em informática e atualmente estou cursando Bacharelado em Sistemas de Informação no INTELI, *vulgo a melhor faculdade de todos os tempos*. 
-Ah, antes de mais nada vou deixar também alguns detalhes do que já aprendi:
+Antes de mais nada, vou deixar aqui algumas linguagens e recursos dos quais já estudei ao longo da minha carreira acadêmica:
 
 - Linguagens de Programação: Python e C++
 - Desenvolvimento Web: HTML, CSS e JavaScript
