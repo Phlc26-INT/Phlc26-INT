@@ -12,8 +12,6 @@ Antes de mais nada, vou deixar aqui algumas linguagens e recursos dos quais já 
 - Desenvolvimento Web: HTML, CSS e JavaScript
 - Ferramentas: Visual Studio Code, DevC++ e CodeBlocks
 
-Sobre meus hobbys, adoro jogar com amigos os mais diversos gêneros, pois o importante são as amizades que fazemos pelo caminho. 
-
 ##  Projetos
 
 Opa, deu pra ver que essa parte está em branco, mas significa que estou em processo de aprendizado e logo logo estará lotada de projetos.
