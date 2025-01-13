@@ -23,7 +23,7 @@ Opa, deu pra ver que essa parte está em branco, mas significa que estou em proc
 
 Você pode me encontrar nas redes sociais ou entrar em contato através dos links abaixo:
 
-- [LinkedIn] [Pedro Henrique de Lima Castro](www.linkedin.com/in/pedro-henrique-de-lima-castro-1b89b9214)
+- [LinkedIn] [Pedro Henrique de Lima Castro](www.linkedin.com/in/pedro-henrique-de-lima-castro-1b89b921)
 
 ##  My Buddy
 
