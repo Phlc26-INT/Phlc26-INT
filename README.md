@@ -18,7 +18,7 @@ Opa, deu pra ver que essa parte está em branco, mas significa que estou em proc
 
 Você pode me encontrar nas redes sociais ou entrar em contato através dos links abaixo:
 
-- [LinkedIn] www.linkedin.com/in/pedro-henrique-de-lima-castro-1b89b9214
+- [LinkedIn] (www.linkedin.com/in/pedro-henrique-de-lima-castro-1b89b9214)
 
 
 "CADA SONHO QUE VOCÊ DEIXA PRA TRÁS, É UM PEDAÇO DO SEU FUTURO QUE DEIXA DE EXISTIR" - STEVE JOBS
